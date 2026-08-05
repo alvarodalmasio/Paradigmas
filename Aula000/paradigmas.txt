@@ -1,0 +1,17 @@
+Linguagem: FORTRAN
+
+Vaga real: Desenvolvedor FORTRAN (Fortran Developer).
+
+O que faz: Desenvolve e mantém sistemas escritos em FORTRAN, geralmente para aplicações científicas, engenharia, meteorologia, energia, simulações e computação de alto desempenho (HPC). Também pode trabalhar com integração entre FORTRAN, C/C++ e Python.
+
+Faixa salarial:
+
+Brasil: entre R$ 10.000 e R$ 13.000 por mês para profissionais experientes.
+Estados Unidos: entre US$ 90.000 e US$ 115.000 por ano, com média de aproximadamente US$ 102.500 por ano.
+
+Paradigmas da linguagem:
+
+Imperativo
+Procedural
+Orientado a Objetos (a partir do Fortran 2003)
+Programação Paralela
